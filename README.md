@@ -1,6 +1,8 @@
 # PulseTrainHatSerialCoilWinderExample
 Pulse Train Hat Controlling Coil Winding Machine example
 
+![alt tag](https://i1.wp.com/pthat.com/wp-content/uploads/2017/02/CoilWinder.png)
+
 Examples for the PTHAT http://www.pthat.com
 
 Raspberry Pi running Windows 10 IOT Universal Application C#
