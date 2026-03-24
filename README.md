@@ -1,6 +1,12 @@
 # PulseTrainHatSerialCoilWinderExample
 Pulse Train Hat Controlling Coil Winding Machine example
 
+Updated 24th March 2026 with versions that will load and be compiled using Visual Studio 2026.
+First install the Windows SDK for Windows 10 2004 (10.0.19041.0)
+Released in conjunction with Windows 10, version 2004. Includes servicing updates 10.0.19041.5609.
+https://learn.microsoft.com/en-gb/windows/apps/windows-sdk/downloads
+
+
 ![alt tag](https://i1.wp.com/pthat.com/wp-content/uploads/2017/02/CoilWinder.png)
 
 Examples for the PTHAT http://www.pthat.com
